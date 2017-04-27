@@ -1,0 +1,4 @@
+<Page ux:Class="HomePage">
+	<Router ux:Dependency="router" />
+	<JavaScript File="HomePage.js" />
+</Page>
